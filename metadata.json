@@ -1,0 +1,7 @@
+{
+  "name": "Market Precision",
+  "description": "Real-time global markets overview, indices, stock tracking, and financial analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
